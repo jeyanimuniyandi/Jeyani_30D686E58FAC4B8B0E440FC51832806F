@@ -28,7 +28,7 @@ pclass bankAccount:
 
 
 account = bankAccount(account_number="123456789",
-                      account_holder_name="Sharumathi",
+                      account_holder_name="jeyani",
                       initial_balance=5000.0)
 
 account.display_balance()
